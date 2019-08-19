@@ -1,0 +1,25 @@
+{
+  "name": "my-tailwind",
+  "version": "1.0.0",
+  "description": "I simple HTML 5 template to test some Tailwind CSS ideas.",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JovaniPink/my-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JovaniPink/my-tailwind/issues"
+  },
+  "homepage": "https://github.com/JovaniPink/my-tailwind#readme",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "postcss-cli": "^6.1.3",
+    "tailwindcss": "^1.1.2"
+  }
+}
