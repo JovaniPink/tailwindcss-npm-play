@@ -1,3 +1,7 @@
-# my-tailwind
+# Tailwind CSS npm Play
 
-I simple HTML 5 template to test some Tailwind CSS ideas.
+> Bootstrap a project for building a Tailwind CSS designed site via Parcel.
+
+Further reading
+Tailwind CSS: https://tailwindcss.com/
+Parcel: https://parceljs.org/
